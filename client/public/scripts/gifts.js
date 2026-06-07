@@ -76,10 +76,9 @@ const renderGift = async () => {
   }
 };
 
-const requestedUrl = window.location.href.split("/").pop();
-if (requestedUrl) {
-  window.location.href = "../404.html";
+const lastSegment = window.location.href.split("/").pop();
+if (parseInt(lastSegment)) {
+  renderGift();
 } else {
   renderGifts();
 }
-renderGift();

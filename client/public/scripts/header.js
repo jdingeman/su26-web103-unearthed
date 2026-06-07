@@ -21,7 +21,9 @@ headerRight.className = "header-right";
 const headerButton = document.createElement("button");
 headerButton.textContent = "Home";
 
-headerButton.addEventListener("click", function handleClick(event) {});
+headerButton.addEventListener("click", () => {
+  window.location.href = "/";
+});
 
 headerRight.appendChild(headerButton);
 

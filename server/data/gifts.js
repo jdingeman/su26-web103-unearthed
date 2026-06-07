@@ -14,7 +14,8 @@ const giftData = [
     name: "Lego Flower Bouquet Kit",
     pricePoint: "$",
     audience: "Green Thumbs",
-    image: "https://tinyurl.com/ydpv2bt9",
+    image:
+      "https://www.lego.com/cdn/cs/set/assets/blt3bfaec265fadce07/10280_alt11.jpg?fit=crop&quality=80&width=800&height=800&dpr=1",
     description: "A gift and fun activity to do together",
     submittedBy: "Isabel",
     submittedOn: "2023-02-14T12:32:00",
@@ -24,7 +25,8 @@ const giftData = [
     name: "Nintendo Switch Lite",
     pricePoint: "$$",
     audience: "Gamers",
-    image: "https://tinyurl.com/2cdfe59x",
+    image:
+      "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/ncom/en_US/products/hardware/nintendo-switch-lite-yellow/110678-nintendo-switch-lite-yellow-package-1200x675",
     description: "A gift for gamers on-the-go",
     submittedBy: "Mario",
     submittedOn: "2022-09-13T11:01:00",
@@ -34,7 +36,7 @@ const giftData = [
     name: "Nike Panda Dunks",
     pricePoint: "$$",
     audience: "Sneakerheads",
-    image: "https://tinyurl.com/y9bzv8xd",
+    image: "https://i.ebayimg.com/images/g/z~QAAOSw91ZnJD1D/s-l1200.jpg",
     description: "A fan-favorite black and white color-blocking sneaker",
     submittedBy: "Jason",
     submittedOn: "2023-03-10T05:23:00",
@@ -44,7 +46,7 @@ const giftData = [
     name: "Razer Kitty Headset",
     pricePoint: "$$",
     audience: "Gamers",
-    image: "https://tinyurl.com/4pt84wry",
+    image: "https://m.media-amazon.com/images/I/814WZ5eAFoL.jpg",
     description:
       "Create the purrfect gaming look with your own killer kitty style",
     submittedBy: "Pixie",
